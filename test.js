@@ -1,2 +1,2 @@
-var l=9;
-var 3-
+var l=99;
+var ram="dff";
