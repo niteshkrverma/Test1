@@ -1,2 +1,1 @@
-var var l=9;
-var b=9;
+var l=9;
